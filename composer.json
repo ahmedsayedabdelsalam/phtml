@@ -1,0 +1,14 @@
+{
+    "name": "ahmed/phtml",
+    "description": "Generate HTML with PHP.",
+    "authors": [
+        {
+            "name": "ahmed sayed abdelsalam",
+            "email": "e.eng.ahmedsayed@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"PHTML\\": "src/"}
+    }
+}
